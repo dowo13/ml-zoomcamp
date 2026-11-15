@@ -1,2 +1,1 @@
-# ml-zoomcamp
-homework and projects for DataTalksClub’s Machine Learning Zoomcamp (2026 cohort).
+# ML Zoomcamp 2026 — homework and projects
